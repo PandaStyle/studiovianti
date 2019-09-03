@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "studio-vianti": {
+      "hosting": {
+        "studiovianti": [
+          "studio-vianti"
+        ]
+      }
+    }
+  }
+}

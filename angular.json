@@ -118,8 +118,13 @@
               "devServerTarget": "studiovianti:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "studiovianti"
 }
